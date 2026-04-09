@@ -8,15 +8,12 @@
 
 | 주제 | 자료 |
 |------|------|
-| 예시: 실행 컨텍스트 | [노션](#) |
+| V8 엔진 | [노션](https://minkyu96.notion.site/v8?pvs=74) |
 
 ---
 
 ## ⚛️ React Deep Dive
 
-| 주제 | 자료 |
-|------|------|
-| 예시: 렌더링 최적화 | [노션](#) |
 
 ---
 
@@ -24,4 +21,8 @@
 
 | 주제 | 자료 |
 |------|------|
-| 예시: 운영체제 | [노션](#) |
+| CSS  | [노션](https://minkyu96.notion.site/css?pvs=74)|
+| User Agent | [노션](https://minkyu96.notion.site/user-agent?pvs=73)|
+| 웹 핵심 지표 | [노션](https://minkyu96.notion.site/core-web-vitals?pvs=73)|
+| 브라우저 동작 과정 | [노션](https://minkyu96.notion.site/browser-rendering)|
+| DOM & Virtual DOM | [노션](https://minkyu96.notion.site/dom?pvs=74)|
