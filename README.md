@@ -1,10 +1,10 @@
-# 📚 개발 공부 일지
+## 📚 개발 공부 일지
 
 개인적으로 공부한 내용을 정리한 저장소입니다.
 
 ---
 
-## 🟡 JavaScript Deep Dive
+### 🟡 JavaScript Deep Dive
 
 | 주제 | 자료 |
 |------|------|
@@ -12,12 +12,16 @@
 
 ---
 
-## ⚛️ React Deep Dive
+### ⚛️ React Deep Dive
+| 주제 | 자료 |
+|------|------|
+| Fiber | [노션](https://minkyu96.notion.site/react-fiber?pvs=73) |
+| React 렌더링 | [노션](https://minkyu96.notion.site/react-rendering?pvs=74) |
 
 
 ---
 
-## 🖥️ CS 지식
+### 🖥️ CS 지식
 
 | 주제 | 자료 |
 |------|------|
