@@ -9,6 +9,13 @@
 | 주제 | 자료 |
 |------|------|
 | V8 엔진 | [노션](https://minkyu96.notion.site/v8?pvs=74) |
+| 데이터 타입 | [노션](https://minkyu96.notion.site/data-type) |
+| 타입 변환과 단축 평가  | [노션](https://minkyu96.notion.site/35411ebd7a44807ba05afe0e7a10a8eb) |
+| 객체 리터럴 | [노션](https://minkyu96.notion.site/35411ebd7a4480818dc7fb3ea3e6fcb5) |
+| 원시 값과 객체의 비교 | [노션](https://minkyu96.notion.site/35411ebd7a4480378827d82d21d4fd30) |
+| 함수 | [노션](https://minkyu96.notion.site/35411ebd7a4480ad9ee8d27b96e997d8) |
+
+
 
 ---
 
