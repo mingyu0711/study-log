@@ -45,6 +45,7 @@
 
 | 주제 | 자료 |
 |------|------|
+| HTTP, HTTPS  | [노션](https://minkyu96.notion.site/HTTP-HTTPS-35e11ebd7a44803a939afbd27b7d7eae)|
 | CSS  | [노션](https://minkyu96.notion.site/css?pvs=74)|
 | User Agent | [노션](https://minkyu96.notion.site/user-agent?pvs=73)|
 | 웹 핵심 지표 | [노션](https://minkyu96.notion.site/core-web-vitals?pvs=73)|
