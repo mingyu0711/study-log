@@ -41,6 +41,34 @@
 
 ---
 
+### ▲ Next.js
+
+| 주제 | 자료 |
+|------|------|
+| Pages Router / App Router | [노션](https://minkyu96.notion.site/Pages-Router-App-Router-36311ebd7a4480b19859e16f99c30bbf?pvs=74) |
+
+
+---
+
+### ⚛️ React Native
+
+| 주제 | 자료 |
+|------|------|
+| React Native Expo, CLI | [노션](https://minkyu96.notion.site/React-Native-Expo-CLI-36411ebd7a44807293defbcaa6deac4c?pvs=74) |
+
+
+---
+
+### ⚙️ 아키텍처
+
+| 주제 | 자료 |
+|------|------|
+| FSD(Feature-Sliced Design) | [노션](https://minkyu96.notion.site/FSD-Feature-Sliced-Design-36211ebd7a4480c696b7c6939b00c115?pvs=74) |
+| 모노레포(Monorepo) | [노션](https://minkyu96.notion.site/Monorepo-37811ebd7a44801c97baded7e674f265) |
+
+
+---
+
 ### 🖥️ CS 지식
 
 | 주제 | 자료 |
