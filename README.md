@@ -80,3 +80,8 @@
 | 브라우저 동작 과정 | [노션](https://minkyu96.notion.site/browser-rendering)|
 | DOM & Virtual DOM | [노션](https://minkyu96.notion.site/dom?pvs=74)|
 | 렌더링 방식 | [노션](https://minkyu96.notion.site/35c11ebd7a448045855ed7775789784f)|
+| 인증/인가 | [노션](https://minkyu96.notion.site/38b11ebd7a4481ada8a9c15415974051?pvs=74)|
+| 자료구조 | [노션](https://minkyu96.notion.site/39811ebd7a4481ae9188cf742d412e64?pvs=74)|
+
+
+
