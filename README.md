@@ -74,6 +74,7 @@
 | 주제 | 자료 |
 |------|------|
 | 데이터베이스 개요 (개념·종류·엔진) | [노션](https://minkyu96.notion.site/3a711ebd7a4480419330d696f3c095b4?pvs=74) |
+| SQL 기초 | [노션](https://minkyu96.notion.site/SQL-3c111ebd7a44800ea9bad557acf38c24?pvs=74) |
 
 
 ---
@@ -91,6 +92,5 @@
 | 렌더링 방식 | [노션](https://minkyu96.notion.site/35c11ebd7a448045855ed7775789784f)|
 | 인증/인가 | [노션](https://minkyu96.notion.site/38b11ebd7a4481ada8a9c15415974051?pvs=74)|
 | 자료구조 | [노션](https://minkyu96.notion.site/39811ebd7a4481ae9188cf742d412e64?pvs=74)|
-
 
 
